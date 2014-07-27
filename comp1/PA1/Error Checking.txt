@@ -1,0 +1,12 @@
+Ashlesh Gawande
+
+
+The following input from user should be checked to make correct use of the program:
+
+1) The program should check for and reject negative inputs. Since pins can not stand again after they fall or we can not knock out more pins than the pins that are already standing. 
+
+2) If one enters 10 for roll one and enters something other than zero for roll two, this will mess up our score. 
+
+PS:I corrected this in my program as it was an easy fix. Inside the if statement with the condition roll 1 =10, then declare the variable holding the value of roll2 as zero. Now even if the user enters roll2>0 ,the program would consider roll2 as a zero!
+
+3) If the user enters more than 10 pins, the score of the program would be something that is beyond possible in a 10 pin bowling game. Hence the user has to input something in the range of 0-10 for correct score.           
