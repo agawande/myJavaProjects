@@ -1,0 +1,41 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0_25\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\Ashlesh\bluej\commons-lang3-3.1\commons-lang3-3.1.jar;C:\Users\Ashlesh\bluej\commons-lang3-3.1\commons-lang3-3.1-javadoc.jar;C:\Users\Ashlesh\bluej\commons-lang3-3.1\commons-lang3-3.1-sources.jar;C:\Users\Ashlesh\bluej\commons-lang3-3.1\commons-lang3-3.1-tests.jar;C:\Users\Ashlesh\Desktop\Fall2013\COMP2700\RSA_Break_Trial1\apfloat.jar;C:\Users\Ashlesh\Desktop\Spring14\AdvDataStructure\Projects\Project_2
+-d
+C:\Users\Ashlesh\Desktop\Spring14\AdvDataStructure\Projects\Project_2\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\Ashlesh\Desktop\Spring14\AdvDataStructure\Projects\Project_2\Client3.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Ashlesh\Desktop\Spring14\AdvDataStructure\Projects\Project_2\Client3.java...
+C:\Users\Ashlesh\Desktop\Spring14\AdvDataStructure\Projects\Project_2\Client3.java:28: error: <identifier> expected
+    private JButton color = new 
+                               ^
+C:\Users\Ashlesh\Desktop\Spring14\AdvDataStructure\Projects\Project_2\Client3.java:30: error: '(' or '[' expected
+    private UpdateBarContainer currentThread;
+    ^
+C:\Users\Ashlesh\Desktop\Spring14\AdvDataStructure\Projects\Project_2\Client3.java:30: error: ';' expected
+    private UpdateBarContainer currentThread;
+           ^
+C:\Users\Ashlesh\Desktop\Spring14\AdvDataStructure\Projects\Project_2\Client3.java:30: error: <identifier> expected
+    private UpdateBarContainer currentThread;
+                                            ^
+4 errors
