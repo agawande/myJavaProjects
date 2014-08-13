@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Calculate()
+comment1.params=s
+comment1.target=double\ singlePass(java.lang.String)
+comment2.params=tk
+comment2.target=boolean\ isOperator(java.lang.String)
+comment3.params=tk
+comment3.target=int\ precedence(java.lang.String)
+comment4.params=op\ num1\ num2
+comment4.target=double\ performOperation(java.lang.String,\ double,\ double)
+comment5.params=s
+comment5.target=boolean\ isNum(java.lang.String)
+numComments=6

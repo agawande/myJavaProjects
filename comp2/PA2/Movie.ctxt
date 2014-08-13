@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=name\ year\ star\ length
+comment0.target=Movie(java.lang.String,\ int,\ double,\ double)
+comment1.params=length
+comment1.target=void\ setLength(double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
